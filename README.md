@@ -52,6 +52,35 @@ firewatch 비슷하게 클론코딩
 ![image](https://github.com/hyeiis/clone-coding/assets/81225456/307bdf0b-cd37-4702-b8c1-64dac2dc92cd)
 ![image](https://github.com/hyeiis/clone-coding/assets/81225456/a751b574-d1ce-419f-984d-d76516ac64df)
 
+<hr />
+
+## 4. 카카오뱅크 인재영입 페이지 클론코딩
+
+### 사용언어
+<div style="flex">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=plastic&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-1572B6?style=plastic&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=plastic&logo=javascript&logoColor=white" />
+</div>
+
+
+#### 구현 화면
+https://github.com/hyeiis/clone-coding/assets/81225456/bbea508e-2b71-4832-a7b7-b4dd37c4b644
+
+<hr />
+
+## 5. 넥스트 레벨 페어스 페이지 클론코딩
+
+### 사용언어
+<div style="flex">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=plastic&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-1572B6?style=plastic&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=plastic&logo=javascript&logoColor=white" />
+</div>
+
+
+#### 구현 화면
+https://github.com/hyeiis/clone-coding/assets/81225456/c01f0973-4178-4478-ac38-f83def687cdb
 
 
 
