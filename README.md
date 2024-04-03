@@ -14,7 +14,8 @@ airbnb 사이트의 메인 화면 클론코딩
 
 
 #### 구현 화면
-![image](https://github.com/hyeiis/airbnb_clone/assets/81225456/9fd89efb-4682-4914-b276-b12eefad3e89)
+![image](https://github.com/hyeiis/clone-coding/assets/81225456/7945ca96-0499-4b89-86d1-3e71e94a80f7)
+
 
 <hr />
 
@@ -31,8 +32,7 @@ airbnb 사이트의 메인 화면 클론코딩
 
 
 #### 구현 화면
-![image](https://github.com/hyeiis/404-page/assets/81225456/bf2771a8-c725-4bb7-a8ed-ac2d55298152)
-
+![image](https://github.com/hyeiis/clone-coding/assets/81225456/adddb37e-4aed-43ff-92b4-3a911e9cb080)
 
 <hr />
 
@@ -49,9 +49,9 @@ firewatch 비슷하게 클론코딩
 
 
 #### 구현 화면
-![image](https://github.com/hyeiis/firewatch-clone/assets/81225456/305e0195-cb66-4e7c-a221-25eb968aa751)
+![image](https://github.com/hyeiis/clone-coding/assets/81225456/307bdf0b-cd37-4702-b8c1-64dac2dc92cd)
+![image](https://github.com/hyeiis/clone-coding/assets/81225456/a751b574-d1ce-419f-984d-d76516ac64df)
 
-![image](https://github.com/hyeiis/firewatch-clone/assets/81225456/96d8da89-cf12-44ea-a49e-1556c492647b)
 
 
 
